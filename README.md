@@ -2,3 +2,7 @@
 
 If you tired of doing sudo `pacman -Syu discord` and it's update whole worlds copmuters, just run this scipt.
 Probably you should do this under the `sudo` or just chmod `/opt/discord/resources/build_info.json` to `666`. 
+
+## TODO: 
+
+- Make it smaller, 4mb release wtf
